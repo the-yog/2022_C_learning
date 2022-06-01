@@ -1,6 +1,6 @@
 // 이 프로그램은 두 수를 입력 받아 곱의 결과를 출력한다
 // 도입부 
-#include <stdio.h>              // printf() 와 scaf() 를 사용하려고 헤더파일 포함시킴
+#include <stdio.h>              // printf() 와 scanf() 를 사용하려고 헤더파일 포함시킴
 #pragma warning(disable:4996)   //권장하지 않는 함수 사용에 대한 경고 메시지 무시
 
 int a, b, c;      // 정수를 저장하는 변수 선언
