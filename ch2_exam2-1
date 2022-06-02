@@ -61,3 +61,4 @@ void main(){          // 자료형이 없다는 뜻의 예약어 void와 main() 
 	printf("long double 자료형 크기 : %d byte\n", sizeof(long double));
         /* 실수형 자료형인 long double의 크기에 byte를 붙여 화면에 표시한다. 기본형은 double이다. 
            또한 float, double, long double 자료형 순으로 오차범위가 적다. */
+}
