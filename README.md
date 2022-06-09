@@ -2,6 +2,6 @@
 
 ## hi, guys! 
 
-### my school name is krean national open university(aka KNOU), and my major is CS.
+### my school name is korean national open university(aka KNOU), and my major is CS.
 
 ### i'm really beginner, this cord world so amazing!
